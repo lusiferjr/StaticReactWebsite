@@ -1,0 +1,185 @@
+Changes:
+1. Homepage
+	a. Carousel images to be changed. Give dimensions?
+	b. Change case of all the words eg PORTFOLIO to Portfolio,etc 
+	c. Change heading Events & Blogs to Sports Academy Website, support & service location to Support & Contact Details, video to Videos, Appnivi to Meet Us
+	
+	
+2. Services page
+
+Give dimensions of images? 
+
+Web Development:
+Get intuitive UI/UX designs, high fidelity wireframes, customized and elegant websites for all business purposes.
+Build your brand and increase your customer engagement with your website today. 
+
+Mobile App Development:
+We provide engaging and powerful mobile application services starting from design, development, testing, and support. 
+We focus on creating feature-rich android and ios apps for a customer or an enterprise at cost-effective rates
+
+Software Development:
+We offer optimized software solutions flexible with changing technology and business goals. 
+We are customer-centric and continuously work towards delivering and leveraging the best possible solutions for our clients.
+
+
+3. Blogs page
+
+Give dimensions of blog images?
+
+a. Client Server Program in Python:
+Making a client server program in Python is now no more a stressing and confusing task. In this article, we will explain you step by step, 
+how to make your own private chatroom by using sockets and client & server functions in Python in a much easy and understandable way.
+What are Sockets? Sockets are the endpoints of a bidirectional communication channel. They are used to send and receive data bi-directionally. 
+Sockets may be implemented using different channel types TCP, UDP and so on. Sending and receiving of the data is done is bytes. 
+Therefore encoding and decoding of the data is done before sending and receiving respectively. Python provides SOCKETS module to implement sockets.
+Read more.
+
+b. Live Streaming with OBS:
+Live streaming can be a strenuous and confusing task. In this article, we will show you step by step how to set up your own live stream.
+Streaming can be done using your pc or by your mobile phone. In this article, we will go through an easy method to stream using your computer or laptop. 
+In order to start a live stream you would need a stable internet connection to provide a smooth and good quality video stream to your viewers. 
+Other then internet, you would need a high performance computer to handle the stress that you would put on your device while encoding the video for streaming platform.
+Read more.
+
+c. Sliding background effect using CSS:
+In this article, we will explain you step by step, how to implement cool css sliding animation using CSS in an easy way. Here is a nice hover effect which can be seen and 
+is often used in a wide variety of websites. The effect we have made here uses css properties and no frameworks like bootstrap. If you are in a hurry or are here just 
+for the functionality, let us begin with the non-aesthetic functionality only version.
+Read more.
+
+d. Hosting website using nginx on AWS:
+Hosting your website is the best way to show the world your talent. But hosting a website can be a stressing and confusing task. 
+You have to make important decisions before hosting your website like what service to choose? Will that service have the support for the technology that 
+is been used in that website? Read more.
+
+4. Videos page
+
+a. Hungertables
+AppNivi presents Food Ordering and Restaurant Application. Take your business online and reach out to more customers. 
+Why do I need to take my restaurant online?
+1. Easy Menu Management
+2. Customer Registration and Login Management 
+3. Customer Order History Management 
+4. Increase customer engagement with offers and subscriptions
+5. Restaurant Booking Management
+6. Easy and Secure Payment Modes
+7. Sales Insights with Admin Dashboard
+8. Food Delivery Management with location tracking
+9. Increase in sales according to user preferences
+10. Keep things in track with Customer Feedback
+Contact teams@appnivi.com to get one for your restaurant/ food delivery business today.
+Customizations available according to your requirements.
+Contact us to know more about Admin/ User dashboard!
+To see our live work please visit :
+http://hungertables.in/
+
+
+b. Ironfists
+AppNivi presents the Martial Arts website.
+Go online with our martial arts website, show your classes and schedules, share your knowledge via blogs, and introduce your team.
+Get one for your own academy today!
+Increase your connections and reach out to a larger audience.
+Visit www.appnivi.com to get your website.
+The website will contain -
+1. Landing Page
+2. Programs Offered Page
+3. Upcoming Events Page
+4. Core Team Page
+5. Blogs Listing Page
+6. Blog Page
+7. Contact Page
+Customizations available according to your requirements.
+To see our live work please visit :
+www.ironfists.in
+
+c. onepercent-cg
+Getting confused about where to show your stunning work?
+Go online with your portfolio website with AppNivi.
+Increase your connections and get hired.
+Visit www.appnivi.com to get your portfolio.
+Your portfolio website will contain,
+1.  Landing Page
+2.  Portfolio section to show your work
+3.  About yourself (know me section)
+4.  Experience
+5.  Platforms you have worked on
+6.  Services you provide
+7.  Contact details
+8.  Social Links
+Customisation available according to your requirements.
+To see our live work please visit: 
+http://www.onepercent-cg.com/
+
+
+5.Wireframes page:
+
+Carousel: Add Wireframe images
+
+Remove the layout below carousel and add the following layout having headings with their paragraphs.
+
+
+Heading : Purpose of Wireframing
+
+Para : One of the great advantages of wireframing is that it provides an early visual that can be used to review with the client. 
+Users can also review it as an early feedback mechanism for prototype usability tests. Not only are wireframes easier to amend than concept designs, once approved by 
+the client and the users they provide confidence to the designer. Therefore, wireframes keep the concept user-focused.
+Wireframing specific features will clearly communicate to your clients how they’ll function and what purpose they’ll serve. 
+Wireframes clarify and define website features as it enables all stakeholders to gauge how much space will need to be allocated for each feature, 
+connect the site’s information architecture to its visual design, and clarify the page’s functionality.
+
+
+Heading : Need of Wireframing
+
+Para : Wireframes should be used early in a project to get user and client approval on the layout of key pages and the navigation. This will provide the project team, 
+specifically the designers, confidence in moving forward. Wireframes will also save considerable time and money in the testing and amends phase later in the project.
+They may seem basic enough to be overlooked, but wireframes will enable you to get vital user, client, and stakeholder approval when it comes to the layout and navigation 
+of the product’s key pages. Armed with this approval, you can move forward with the confidence that you’re designing something that your clients and users will love. 
+The bonus? Wireframes save heaps of time and money in the long run!
+
+No Heading
+Para : We offer intuitive UI/UX designs and high fidelity wireframes for all types of applications. Our team of UI designers having expertise in website development 
+technologies makes sure to deliver best UI designs for all screen sizes so that your application looks excellent when viewed on mobiles, tablets, laptops and pcs.
+
+
+6. Team page:
+ 
+Give border-radius: 5px; to image
+
+
+7. Coming up page:
+
+Give dimensions of images?
+
+1. Nivi Share
+It is a fast, secure file sharing tool that allows the transfer of files up to 2GB. Use Nivi Share if you are tired of facing the problem of restrictions being 
+imposed on the size of the file in email attachments. To share just upload the file, copy the generated link and share it with your team.
+
+2. Nivi Learn
+An online learning platform that brings together courses having impressive quality content along with certification offers. 
+Monitor your progress by keeping track of your course modules in your personalized dashboard in an organized way. Learn and grow in a collaborative environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

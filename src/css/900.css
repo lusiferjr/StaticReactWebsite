@@ -1,0 +1,249 @@
+
+@media screen and (min-width:600px) and (max-width:900px){
+    .menu-list{
+        font-size:16px;
+    }
+    .ant-layout-header{
+        display: block;
+    }
+    .header-logo{
+        display:inline-block;
+    }
+    .header-menu{
+        display:inline-block;
+    }
+    .header-icons{
+        display: inline-block;
+        position: relative;
+        right:50px;
+        float:right;
+    }
+    .imageview-carousel{
+        height:500px;
+    }
+    .imageview-carousel-image{
+        height:500px;
+    }
+    .product{
+        height:300px;
+    }
+    .product-inner-span h3{
+        font-size:24px;
+    }
+    .product-inner-span h5{
+        font-size:20px;
+    }
+    .moto{
+        height:550px;
+    }
+    .service{
+        height:400px;
+    }
+    .service-inner-span h3{
+
+    }
+    .service-icon{
+        font-size:60px;
+    }
+    .otherInfo{
+        height:250px;
+    }
+    .footer-section{
+        padding: 0 20px 0 20px;
+    }
+    .pad-div{
+        display: block;
+    }
+    .first-pic {
+        width: 80%;
+        height: 350px;
+    float:none;
+    margin-left:10%;
+    }
+    .display-container{
+        height:fit-content;
+        display: block;
+        padding: 75px 50px 0 50px;
+        width:fit-content;
+    }
+    .first-text{
+        height:fit-content;
+        display: inline-block;
+        width:80%;
+        padding:50px 0 50px 0;
+        float:none;
+        margin-left:10%;
+        font-size:18px;
+    }
+    .wireframe-text{
+        height:fit-content;
+        display: inline-block;
+        width:100%;
+        padding:50px 0 50px 0;
+        float:none;
+        font-size:18px;
+    }
+    .second-text{
+        height:fit-content;
+        display: inline-block;
+        width:80%;
+        padding:50px 0 50px 0;
+        float:none;
+        margin-left:10%;
+        font-size:18px;
+    }
+    .video-text{
+        height:fit-content;
+        display: inline-block;
+        width:80%;
+        padding:50px 0 50px 0;
+        float:none;
+        margin-left:10%;
+        font-size:18px;
+    }
+    .video-text h1{
+        font-size:25px;
+    }
+    .first-text h1 ,.second-text h1,.wireframe-text h1{
+        font-size:25px;
+    }
+
+    .second-pic {
+        display: none;
+        width: 80%;
+        height: 350px;
+        margin-left:10%;
+    float:none;
+    }
+    .video-pic {
+        display: none;
+        width: 80%;
+        height: 350px;
+        margin-left:10%;
+    float:none;
+    }
+    .rescue-div{
+        display: inline-block;
+        width: 80%;
+        height: 350px;
+    float:none;
+    margin-left:10%;
+    background-size: 100% 100%;
+    }
+    .support-container{
+        padding:100px 0 50px 0;
+        width: 90%;
+        height: 1300px;
+    }
+    .support-contact{
+        width:100%;
+        float:none;
+    }
+    .support-map{
+        width: 100%;
+        float: none;
+        height:500px;
+    }
+    .good-pricing-content{
+        padding: 50px 25px 0 25px;
+    }
+    .good-container{
+        height: 3400px;
+        position: relative;
+    }
+    .goods-pic{
+        display: block;
+    }
+    .goods-items{
+        display: block;
+    }
+    .good-pricing-container{
+        display:block;
+        position: absolute;
+        margin:50px auto 50px auto;
+        height: fit-content;
+        width:55%;
+    }
+    .good-pricing-left{
+        display: inline-block;
+        width: 100%;
+        margin: 0 0 50px 0;
+    }
+    .good-pricing-footer{
+        display: inline-block;
+    }
+    .good-pricing{
+        display: inline-block;
+        position: relative;
+    }
+    .wireframe-carousel{
+        width: 90%;
+        padding:50px 0 0 0;
+    }
+    .team-content{
+        display: block;
+
+    }
+    .team-main{
+        display: inline-block;
+    }
+    .ant-layout-header{
+        display: flex ;
+    }
+    .header-menu {
+        display: none;
+    }
+    .header-icons {
+        display: none;
+    }
+    .header-logo {
+        height: 64px;
+    }
+    .responsive-spacer {
+        display: block;
+        width: 90%;
+        float: left;
+        height: 64px;
+    }
+    .responsive-icon {
+        float: left;
+        font-size: 20px;
+        line-height: 64px !important;
+        color: white !important;
+    }
+    .responsive-menu-icon {
+        display: block;
+        width: 80%;
+    }
+    .responsive-dropdown {
+        position: fixed;
+        display: block;
+        bottom: -400px;
+        height: 400px;
+        width: 100%;
+        background-color: #00284de0;
+        z-index: 1000;
+        transition: all 0.9s;
+        padding: 100px 0 0 0;
+    }
+    .responsive-header-menu {
+        text-align: center !important;
+        height: 50px;
+        width: 70%;
+        margin: auto;
+        left: 0;
+        right: 0;
+        top: 100px;
+        font-size: 20px;
+        text-align: left;
+        color: white;
+        line-height: 45px;
+    }
+    .responsive-header-icons {
+        font-size: 20px;
+        width: 100px;
+        margin: auto;
+        left: 0;
+        right: 0;
+    }
+}
